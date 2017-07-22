@@ -3,6 +3,7 @@ package clertonleal.com.kotlin_test
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
+import clertonleal.com.kotlin_test.application.KotlinApplication
 import clertonleal.com.kotlin_test.service.MovieService
 import kotlinx.android.synthetic.main.activity_main.*
 import javax.inject.Inject

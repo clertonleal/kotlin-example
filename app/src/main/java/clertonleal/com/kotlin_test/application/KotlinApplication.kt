@@ -1,4 +1,4 @@
-package clertonleal.com.kotlin_test
+package clertonleal.com.kotlin_test.application
 
 import android.app.Application
 import clertonleal.com.kotlin_test.dagger.DaggerMainComponent
